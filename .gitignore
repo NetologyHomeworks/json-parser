@@ -1,0 +1,7 @@
+/out
+
+#misc
+.idea
+.DS_Store
+Thumbs.db
+*.iml
